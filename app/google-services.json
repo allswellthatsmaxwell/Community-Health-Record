@@ -1,0 +1,104 @@
+{
+  "project_info": {
+    "project_number": "551448609084",
+    "firebase_url": "https://chrmid-52856.firebaseio.com",
+    "project_id": "chrmid-52856",
+    "storage_bucket": "chrmid-52856.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:551448609084:android:356cf44e0f121124",
+        "android_client_info": {
+          "package_name": "com.baby.baby"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "551448609084-hpoic2qiet4krn4bves2d4pmlejlka97.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDlyO6dmhuD2CcvSNbQANkZ49ppBulTZgQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:551448609084:android:3bb24a12947689fd",
+        "android_client_info": {
+          "package_name": "com.boop.android"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "551448609084-hpoic2qiet4krn4bves2d4pmlejlka97.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDlyO6dmhuD2CcvSNbQANkZ49ppBulTZgQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:551448609084:android:d1c239741ef2300e",
+        "android_client_info": {
+          "package_name": "health.hack.medicalinformationdatabase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "551448609084-hpoic2qiet4krn4bves2d4pmlejlka97.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDlyO6dmhuD2CcvSNbQANkZ49ppBulTZgQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
